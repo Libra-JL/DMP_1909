@@ -112,10 +112,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="初始化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1592813844451">
+    <state x="314" y="26" key="#Notifications" timestamp="1592814009718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="566" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592813844451" />
+    <state x="314" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1592814009718" />
+    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1592813995648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="566" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592813995648" />
     <state x="647" y="126" key="FileChooserDialogImpl" timestamp="1592812422974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,5 +136,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="264" y="3" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592812374581" />
+    <state x="314" y="89" key="Vcs.Push.Dialog.v2" timestamp="1592813962431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592813962431" />
   </component>
 </project>
