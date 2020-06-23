@@ -8,6 +8,25 @@ import scala.collection.mutable
  * 通用工具类
  */
 object CommonUtils {
+
+
+	def toInt(str:String): Int = {
+		try {
+			str.toInt
+		}catch {
+			case _:Exception => 0
+		}
+	}
+
+	def toDouble(str:String): Double = {
+		try {
+			str.toDouble
+		}catch {
+			case _:Exception => 0.0
+		}
+	}
+
+
 	/**
 	 * 读取classpath路径下的指定的名称的properties文件，并将其数据转换位一个不可变map
 	 */
@@ -28,6 +47,8 @@ object CommonUtils {
 		val immap:Map[String, String] = map.toMap
 		immap
 	}
+
+
 
 	def main(args: Array[String]): Unit = {
 		val map = toMap("kafka.properties")
