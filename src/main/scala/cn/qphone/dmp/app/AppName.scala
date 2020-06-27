@@ -19,7 +19,7 @@ object AppName extends LoggerTrait {
 
 
 		val session = new sql.SparkSession.Builder()
-			.master("local")
+			.master("local[*]")
 			.appName(LocationRpt.getClass.getSimpleName)
 			.getOrCreate()
 
